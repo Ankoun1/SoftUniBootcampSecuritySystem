@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniBootcampSecuritySystem.Api", "SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Api.csproj", "{59A1F97D-C01E-4501-856F-CB05B4061AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniBootcampSecuritySystem.BL", "SoftUniBootcampSecuritySystem.BL\SoftUniBootcampSecuritySystem.BL.csproj", "{299816E3-CE2C-467F-A978-681E20CC5971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniBootcampSecuritySystem.Data", "SoftUniBootcampSecuritySystem.Data\SoftUniBootcampSecuritySystem.Data.csproj", "{5AC15214-5717-4420-BF45-F736FD6BC841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniBootcampSecuritySystem.Models", "SoftUniBootcampSecuritySystem.Models\SoftUniBootcampSecuritySystem.Models.csproj", "{47FF8C81-B46E-4D66-8B06-E05CEF2719C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniBootcampSecuritySystem.DTO", "SoftUniBootcampSecuritySystem.DTO\SoftUniBootcampSecuritySystem.DTO.csproj", "{F8E4636F-FDFB-4D00-BF93-73E8C98FBB0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A1F97D-C01E-4501-856F-CB05B4061AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A1F97D-C01E-4501-856F-CB05B4061AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A1F97D-C01E-4501-856F-CB05B4061AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A1F97D-C01E-4501-856F-CB05B4061AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299816E3-CE2C-467F-A978-681E20CC5971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299816E3-CE2C-467F-A978-681E20CC5971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299816E3-CE2C-467F-A978-681E20CC5971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299816E3-CE2C-467F-A978-681E20CC5971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC15214-5717-4420-BF45-F736FD6BC841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC15214-5717-4420-BF45-F736FD6BC841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC15214-5717-4420-BF45-F736FD6BC841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC15214-5717-4420-BF45-F736FD6BC841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FF8C81-B46E-4D66-8B06-E05CEF2719C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FF8C81-B46E-4D66-8B06-E05CEF2719C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FF8C81-B46E-4D66-8B06-E05CEF2719C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FF8C81-B46E-4D66-8B06-E05CEF2719C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E4636F-FDFB-4D00-BF93-73E8C98FBB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E4636F-FDFB-4D00-BF93-73E8C98FBB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E4636F-FDFB-4D00-BF93-73E8C98FBB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E4636F-FDFB-4D00-BF93-73E8C98FBB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61628B6-57FB-43DA-91C0-5B819FFDD78A}
+	EndGlobalSection
+EndGlobal

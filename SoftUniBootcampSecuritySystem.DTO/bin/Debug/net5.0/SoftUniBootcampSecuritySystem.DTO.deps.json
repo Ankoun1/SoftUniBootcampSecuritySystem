@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SoftUniBootcampSecuritySystem.DTO/1.0.0": {
+        "dependencies": {
+          "SoftUniBootcampSecuritySystem.Models": "1.0.0"
+        },
+        "runtime": {
+          "SoftUniBootcampSecuritySystem.DTO.dll": {}
+        }
+      },
+      "SoftUniBootcampSecuritySystem.Models/1.0.0": {
+        "runtime": {
+          "SoftUniBootcampSecuritySystem.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftUniBootcampSecuritySystem.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftUniBootcampSecuritySystem.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

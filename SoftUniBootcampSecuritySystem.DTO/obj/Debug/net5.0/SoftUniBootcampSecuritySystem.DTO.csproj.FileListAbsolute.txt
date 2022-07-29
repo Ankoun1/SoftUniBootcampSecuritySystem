@@ -1,0 +1,15 @@
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\bin\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.deps.json
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\bin\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.dll
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\bin\Debug\net5.0\ref\SoftUniBootcampSecuritySystem.DTO.dll
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\bin\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.pdb
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\bin\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.dll
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\bin\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.pdb
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.csproj.AssemblyReference.cache
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.AssemblyInfoInputs.cache
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.AssemblyInfo.cs
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.csproj.CoreCompileInputs.cache
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.csproj.CopyComplete
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.dll
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\obj\Debug\net5.0\ref\SoftUniBootcampSecuritySystem.DTO.dll
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.DTO\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.DTO.pdb

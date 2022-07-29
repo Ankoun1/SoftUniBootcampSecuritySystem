@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SoftUniBootcampSecuritySystem.Data\SoftUniBootcampSecuritySystem.Data.csproj" />
+    <ProjectReference Include="..\SoftUniBootcampSecuritySystem.DTO\SoftUniBootcampSecuritySystem.DTO.csproj" />
+    <ProjectReference Include="..\SoftUniBootcampSecuritySystem.Models\SoftUniBootcampSecuritySystem.Models.csproj" />
+  </ItemGroup>
+
+</Project>

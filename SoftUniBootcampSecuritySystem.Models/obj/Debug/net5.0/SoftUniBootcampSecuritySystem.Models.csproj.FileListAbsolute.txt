@@ -1,0 +1,11 @@
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\bin\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.deps.json
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\bin\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.dll
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\bin\Debug\net5.0\ref\SoftUniBootcampSecuritySystem.Models.dll
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\bin\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.pdb
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.AssemblyInfoInputs.cache
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.AssemblyInfo.cs
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.dll
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\obj\Debug\net5.0\ref\SoftUniBootcampSecuritySystem.Models.dll
+C:\Users\FSOL_CHEM\source\repos\SoftUniBootcampSecuritySystem\SoftUniBootcampSecuritySystem.Models\obj\Debug\net5.0\SoftUniBootcampSecuritySystem.Models.pdb
